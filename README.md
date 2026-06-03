@@ -51,7 +51,7 @@
   │   uni     →  BRAC University    │
   │   degree  →  BSc CSE            │
   │   where   →  Dhaka, Bangladesh  │
-  │   focus   →  ML · AI · CV       │
+  │   focus   →  ML · AI ·          │
   │   goal    →  ML Engineer        │
   │                                 │
   │   🚀  NASA Space Apps           │
