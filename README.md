@@ -1,58 +1,52 @@
+<!-- Header -->
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:fde8f0,50:e8f4fd,100:fef9f0&height=200&section=header&text=Samia%20Rahman&fontSize=52&fontColor=5a3e5a&fontAlignY=40&desc=Machine%20Learning%20%C2%B7%20Artificial%20Intelligence%20%C2%B7%20BRAC%20University&descAlignY=62&descColor=7a6a8a&animation=fadeIn"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=400&size=18&pause=1200&color=9b6e8a&center=true&vCenter=true&width=620&lines=BSc+Computer+Science+%26+Engineering+%40+BRAC+University;Specialising+in+Machine+Learning+%26+Deep+Learning;Building+models+that+learn+from+data;NASA+Space+Apps+Challenge+Participant;Dhaka%2C+Bangladesh" />
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=chaityrahman154-lgtm&label=Profile+Views&color=c9a0b4&style=flat-square" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/chaityrahman154-lgtm?color=a8c8e8&label=Followers&style=flat-square" />
-
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:fde8f0,100:dceefb&height=160&text=Samia%20Rahman&fontAlign=50&fontAlignY=55&fontSize=48&fontColor=5a3058&desc=ML%20%26%20AI%20Engineer%20in%20the%20Making%20%7C%20BRAC%20University&descAlign=50&descAlignY=78&descSize=14&descColor=7a5a78&animation=blinking" width="100%" />
 </div>
 
 <br/>
 
-<!-- ── ABOUT ── -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=fde8f0&height=38&text=About%20Me&fontSize=16&fontColor=7a4a6a&fontAlignY=65&fontAlign=5&section=header"/>
+<!-- Typing -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Lato&weight=300&size=17&pause=1500&color=9b6e8a&center=true&vCenter=true&width=580&lines=Turning+raw+data+into+intelligent+decisions.;Deep+Learning+%7C+Neural+Networks+%7C+NLP;NASA+Space+Apps+Challenge+%E2%80%94+Participant;BSc+CSE+%40+BRAC+University%2C+Dhaka;Open+to+internships+%26+research+collaborations." alt="typing" />
+</div>
 
 <br/>
 
-<table border="0" align="center" width="90%">
+---
+
+## &nbsp; 01 &nbsp;·&nbsp; About
+
+<br/>
+
+> *"I give a model enough examples — and it begins to see patterns humans might miss."*
+
+<br/>
+
+<table width="100%" border="0">
 <tr>
-<td width="50%" valign="top">
+<td width="48%" valign="top">
 
-**Hi, I'm Samia** — a Computer Science & Engineering student at BRAC University, Dhaka, with a deep focus on Machine Learning and Artificial Intelligence.
+**Samia Rahman** is a CSE undergraduate at BRAC University, Dhaka focused on **Machine Learning** and **Artificial Intelligence**. She participated in the **NASA Space Apps Challenge** and is currently building expertise in deep learning architectures and model deployment.
 
-I'm drawn to the elegance of ML — giving a model enough examples until it begins to find patterns humans might overlook. I approach every project with scientific rigour and curiosity.
+&nbsp;
 
-- &nbsp; BSc CSE — BRAC University, Dhaka
-- &nbsp; Focus: Machine Learning, Deep Learning, AI
-- &nbsp; NASA Space Apps Challenge participant
-- &nbsp; Dhaka, Bangladesh
-- &nbsp; Currently learning: Neural Networks & CNNs
+**Currently learning:** Backpropagation · CNNs · Model Deployment
+
+**Open to:** Internships · Research roles · ML project collaborations
 
 </td>
-<td width="50%" valign="top">
+<td width="4%"></td>
+<td width="48%" valign="top">
 
-```
-  name    →  Samia Rahman
-  uni     →  BRAC University
-  degree  →  BSc CSE
-  where   →  Dhaka, Bangladesh
-  focus   →  ML · AI · Deep Learning
-  goal    →  ML Engineer / AI Researcher
-
-  NASA Space Apps Challenge participant
-  Currently: Neural Networks & CNNs
-  Open to: Internships & Research
-```
+| | |
+|---|---|
+| **Name** | Samia Rahman |
+| **University** | BRAC University |
+| **Degree** | BSc Computer Science & Engineering |
+| **Location** | Dhaka, Bangladesh |
+| **Focus** | Machine Learning · AI · Deep Learning |
+| **Goal** | ML Engineer / AI Researcher |
+| **Hackathon** | NASA Space Apps Challenge |
 
 </td>
 </tr>
@@ -60,91 +54,121 @@ I'm drawn to the elegance of ML — giving a model enough examples until it begi
 
 <br/>
 
-<!-- ── SKILLS ── -->
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=e8f4fd&height=38&text=Skills%20%26%20Stack&fontSize=16&fontColor=3a6a9a&fontAlignY=65&fontAlign=6&section=header"/>
+## &nbsp; 02 &nbsp;·&nbsp; Tech Stack
+
+<br/>
+
+**Core — Machine Learning & Data Science**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
+
+<br/>
+
+**Learning — Deep Learning & AI**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+<br/>
+
+**Web · Data · Tools**
+
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+<br/>
+
+---
+
+## &nbsp; 03 &nbsp;·&nbsp; Projects
 
 <br/>
 
 <div align="center">
 
-**Machine Learning & Data Science**
+<table width="95%" border="0">
+<tr>
+<td width="33%" align="center" valign="top" style="padding:12px">
 
-![Python](https://img.shields.io/badge/Python-fde8f0?style=flat-square&logo=python&logoColor=7a4a6a)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-fde8f0?style=flat-square&logo=scikit-learn&logoColor=7a4a6a)
-![Pandas](https://img.shields.io/badge/Pandas-fde8f0?style=flat-square&logo=pandas&logoColor=7a4a6a)
-![NumPy](https://img.shields.io/badge/NumPy-fde8f0?style=flat-square&logo=numpy&logoColor=7a4a6a)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-fde8f0?style=flat-square&logo=python&logoColor=7a4a6a)
-![Jupyter](https://img.shields.io/badge/Jupyter-fde8f0?style=flat-square&logo=jupyter&logoColor=7a4a6a)
-![Google Colab](https://img.shields.io/badge/Colab-fde8f0?style=flat-square&logo=googlecolab&logoColor=7a4a6a)
+### [AI Model Evaluation Suite](https://github.com/chaityrahman154-lgtm/ai-model-evaluation)
 
-<br/>
+Comparative analysis of ML models — measuring accuracy, precision, recall and F1 score with rich visualisations.
 
-**Deep Learning — Currently Learning**
+![Python](https://img.shields.io/badge/Python-fde8f0?style=flat-square&logoColor=7a4a6a)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-fde8f0?style=flat-square&logoColor=7a4a6a)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-fde8f0?style=flat-square&logoColor=7a4a6a)
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-e8f4fd?style=flat-square&logo=tensorflow&logoColor=3a6a9a)
-![Keras](https://img.shields.io/badge/Keras-e8f4fd?style=flat-square&logo=keras&logoColor=3a6a9a)
-![OpenCV](https://img.shields.io/badge/OpenCV-e8f4fd?style=flat-square&logo=opencv&logoColor=3a6a9a)
-![NLP](https://img.shields.io/badge/NLP%2FBERT-e8f4fd?style=flat-square&logo=huggingface&logoColor=3a6a9a)
-![Streamlit](https://img.shields.io/badge/Streamlit-e8f4fd?style=flat-square&logo=streamlit&logoColor=3a6a9a)
-![Flask](https://img.shields.io/badge/Flask-e8f4fd?style=flat-square&logo=flask&logoColor=3a6a9a)
+</td>
+<td width="33%" align="center" valign="top" style="padding:12px">
 
-<br/>
+### [SQL Project Showcase](https://github.com/chaityrahman154-lgtm/sql-project-showcase)
 
-**Web, Data & Tools**
+Full database management system with relational schema design, normalisation and a PHP backend.
 
-![SQL](https://img.shields.io/badge/SQL-fef9f0?style=flat-square&logo=mysql&logoColor=7a6a3a)
-![PHP](https://img.shields.io/badge/PHP-fef9f0?style=flat-square&logo=php&logoColor=7a6a3a)
-![HTML5](https://img.shields.io/badge/HTML5-fef9f0?style=flat-square&logo=html5&logoColor=7a6a3a)
-![CSS3](https://img.shields.io/badge/CSS3-fef9f0?style=flat-square&logo=css3&logoColor=7a6a3a)
-![Git](https://img.shields.io/badge/Git-fef9f0?style=flat-square&logo=git&logoColor=7a6a3a)
-![Linux](https://img.shields.io/badge/Linux-fef9f0?style=flat-square&logo=linux&logoColor=7a6a3a)
+![SQL](https://img.shields.io/badge/SQL-dceefb?style=flat-square&logoColor=3a6a9a)
+![PHP](https://img.shields.io/badge/PHP-dceefb?style=flat-square&logoColor=3a6a9a)
+![DB Design](https://img.shields.io/badge/DB%20Design-dceefb?style=flat-square&logoColor=3a6a9a)
+
+</td>
+<td width="33%" align="center" valign="top" style="padding:12px">
+
+### [The Beginning Is Today](https://github.com/chaityrahman154-lgtm/The-beginning-is-today)
+
+Documented ML learning journey in Colab notebooks — from linear regression to neural networks.
+
+![Jupyter](https://img.shields.io/badge/Jupyter-fef3e8?style=flat-square&logoColor=7a6a3a)
+![Python](https://img.shields.io/badge/Python-fef3e8?style=flat-square&logoColor=7a6a3a)
+![Colab](https://img.shields.io/badge/Colab-fef3e8?style=flat-square&logoColor=7a6a3a)
+
+</td>
+</tr>
+</table>
 
 </div>
 
 <br/>
 
-<!-- ── PROJECTS ── -->
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=fde8f0&height=38&text=Projects&fontSize=16&fontColor=7a4a6a&fontAlignY=65&fontAlign=4&section=header"/>
+## &nbsp; 04 &nbsp;·&nbsp; GitHub Stats
 
 <br/>
 
 <div align="center">
 
-| # | Project | Description | Stack |
-|:-:|:--------|:------------|:------|
-| 01 | [**AI Model Evaluation Suite**](https://github.com/chaityrahman154-lgtm/ai-model-evaluation) | Comparative ML model analysis — accuracy, precision, recall & F1 with visualisations | `Python` `Scikit-learn` `Matplotlib` |
-| 02 | [**SQL Project Showcase**](https://github.com/chaityrahman154-lgtm/sql-project-showcase) | Full database management system with relational schema, normalisation & PHP backend | `SQL` `PHP` |
-| 03 | [**The Beginning Is Today**](https://github.com/chaityrahman154-lgtm/The-beginning-is-today) | ML learning notebooks — linear regression through to neural networks, documented journey | `Jupyter` `Python` `Colab` |
+<img src="https://github-readme-stats.vercel.app/api?username=chaityrahman154-lgtm&show_icons=true&hide_border=true&bg_color=fde8f0&title_color=5a3058&icon_color=9b6e8a&text_color=5a3e5a&count_private=true&include_all_commits=true" height="170" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaityrahman154-lgtm&layout=compact&hide_border=true&bg_color=dceefb&title_color=1a4a7a&text_color=2a5a8a&langs_count=6" height="170" />
 
 </div>
-
-<br/>
-
-<!-- ── STATS ── -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=e8f4fd&height=38&text=GitHub%20Stats&fontSize=16&fontColor=3a6a9a&fontAlignY=65&fontAlign=5&section=header"/>
 
 <br/>
 
 <div align="center">
-
-<img height="165px" src="https://github-readme-stats.vercel.app/api?username=chaityrahman154-lgtm&show_icons=true&hide_border=true&bg_color=fde8f0&title_color=7a4a6a&icon_color=c9a0b4&text_color=5a3e5a&count_private=true&rank_icon=github"/>
-&nbsp;
-<img height="165px" src="https://github-readme-streak-stats.herokuapp.com/?user=chaityrahman154-lgtm&hide_border=true&background=e8f4fd&stroke=a8c8e8&ring=3a6a9a&fire=7a4a6a&currStreakLabel=3a6a9a&sideLabels=3a6a9a&dates=5a7a9a"/>
-
-<br/><br/>
-
-<img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaityrahman154-lgtm&layout=compact&hide_border=true&bg_color=fef9f0&title_color=7a6a3a&text_color=5a5a3a&langs_count=7"/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chaityrahman154-lgtm&theme=rose_pine" width="80%" />
 </div>
 
 <br/>
 
-<!-- ── CONNECT ── -->
+---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=fef9f0&height=38&text=Let%27s%20Connect&fontSize=16&fontColor=7a6a3a&fontAlignY=65&fontAlign=5&section=header"/>
+## &nbsp; 05 &nbsp;·&nbsp; Connect
 
 <br/>
 
@@ -154,20 +178,37 @@ I'm drawn to the elegance of ML — giving a model enough examples until it begi
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Now-c9a0b4?style=for-the-badge)](https://chaityrahman154-lgtm.github.io/Portfolio-Samia_Rahman/)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-a8c8e8?style=for-the-badge&logo=github&logoColor=3a6a9a)](https://github.com/chaityrahman154-lgtm)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-b8d4c8?style=for-the-badge&logo=linkedin&logoColor=2a6a4a)](https://www.linkedin.com/in/samia-rahman-b98aa0386/)
+<a href="https://chaityrahman154-lgtm.github.io/Portfolio-Samia_Rahman/">
+  <img src="https://img.shields.io/badge/Portfolio-fde8f0?style=for-the-badge&logoColor=5a3058&label=&message=Visit+Portfolio" />
+  <img src="https://img.shields.io/badge/Visit%20Portfolio-5a3058?style=for-the-badge" />
+</a>
 
-<br/>
+<br/><br/>
 
-[![University Email](https://img.shields.io/badge/samia.rahman9%40g.bracu.ac.bd-fde8f0?style=flat-square&logo=gmail&logoColor=7a4a6a)](mailto:samia.rahman9@g.bracu.ac.bd)
+<a href="https://github.com/chaityrahman154-lgtm">
+  <img src="https://img.shields.io/badge/GitHub-%40chaityrahman154--lgtm-1a3a5a?style=for-the-badge&logo=github&logoColor=white&labelColor=2a5a8a" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/samia-rahman-b98aa0386/">
+  <img src="https://img.shields.io/badge/LinkedIn-Samia%20Rahman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a5a9a" />
+</a>
+
+<br/><br/>
+
+<a href="mailto:samia.rahman9@g.bracu.ac.bd">
+  <img src="https://img.shields.io/badge/samia.rahman9%40g.bracu.ac.bd-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
 &nbsp;&nbsp;
-[![Personal Email](https://img.shields.io/badge/chaityrahman154%40gmail.com-e8f4fd?style=flat-square&logo=gmail&logoColor=3a6a9a)](mailto:chaityrahman154@gmail.com)
+<a href="mailto:chaityrahman154@gmail.com">
+  <img src="https://img.shields.io/badge/chaityrahman154%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:fef9f0,50:e8f4fd,100:fde8f0&height=120&section=footer&text=Data%20reveals%20extraordinary%20truths%20about%20the%20world.&fontSize=14&fontColor=9b8aaa&fontAlignY=65"/>
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:dceefb,100:fde8f0&height=80&fontSize=13&text=Data%20reveals%20extraordinary%20truths%20about%20the%20world.&fontColor=9b8aaa&fontAlignY=55&section=footer" width="100%" />
+</div>
