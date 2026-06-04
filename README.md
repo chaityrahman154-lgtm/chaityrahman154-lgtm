@@ -1,29 +1,6 @@
 <p align="center">
   <img src="./banner.png" width="100%">
 </p>
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=24&pause=2500&color=D4A89E&center=true&vCenter=true&width=800&lines=Artificial+Intelligence;Computer+Graphics;Database+Systems;Software+Engineering;Learning+today,+building+tomorrow" />
-
-<br>
-
-<a href="https://www.linkedin.com/in/samia-rahman-b98aa0386/">
-<img src="https://img.shields.io/badge/LinkedIn-E6CFC7?style=for-the-badge&logo=linkedin&logoColor=3A3532" />
-</a>
-
-<a href="mailto:samia.rahman9@g.bracu.ac.bd">
-<img src="https://img.shields.io/badge/BRAC_Email-F3EDE5?style=for-the-badge&logo=gmail&logoColor=3A3532" />
-</a>
-
-<a href="mailto:chaityrahman154@gmail.com">
-<img src="https://img.shields.io/badge/Personal_Email-F7F3EE?style=for-the-badge&logo=gmail&logoColor=3A3532" />
-</a>
-
-<a href="https://chaityrahman154-lgtm.github.io/Portfolio-Samia_Rahman/">
-<img src="https://img.shields.io/badge/Portfolio-DCC8B6?style=for-the-badge&logo=googlechrome&logoColor=3A3532" />
-</a>
-
-</div>
 
 ---
 
@@ -120,6 +97,26 @@ https://chaityrahman154-lgtm.github.io/Portfolio-Samia_Rahman/
 ---
 
 <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=24&pause=2500&color=D4A89E&center=true&vCenter=true&width=800&lines=Artificial+Intelligence;Computer+Graphics;Database+Systems;Software+Engineering;Learning+today,+building+tomorrow" />
+
+<br>
+
+<a href="https://www.linkedin.com/in/samia-rahman-b98aa0386/">
+<img src="https://img.shields.io/badge/LinkedIn-E6CFC7?style=for-the-badge&logo=linkedin&logoColor=3A3532" />
+</a>
+
+<a href="mailto:samia.rahman9@g.bracu.ac.bd">
+<img src="https://img.shields.io/badge/BRAC_Email-F3EDE5?style=for-the-badge&logo=gmail&logoColor=3A3532" />
+</a>
+
+<a href="mailto:chaityrahman154@gmail.com">
+<img src="https://img.shields.io/badge/Personal_Email-F7F3EE?style=for-the-badge&logo=gmail&logoColor=3A3532" />
+</a>
+
+<a href="https://chaityrahman154-lgtm.github.io/Portfolio-Samia_Rahman/">
+<img src="https://img.shields.io/badge/Portfolio-DCC8B6?style=for-the-badge&logo=googlechrome&logoColor=3A3532" />
+</a>
 
 <img src="https://komarev.com/ghpvc/?username=chaityrahman154-lgtm&style=for-the-badge&color=d4a89e" />
 
