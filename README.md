@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="./banner.png" width="100%">
+</p>
 <div align="center">
 
 # 𝐒𝐚𝐦𝐢𝐚 𝐑𝐚𝐡𝐦𝐚𝐧
@@ -30,13 +33,15 @@
 
 ## About Me
 
-Computer Science student at **BRAC University** with a strong interest in Artificial Intelligence, Computer Graphics, Database Systems, and Software Engineering.
+Computer Science student at **BRAC University** with interests in:
 
-- Building projects while continuously learning
-- Interested in AI, Machine Learning, and Data-driven systems
-- Exploring Computer Graphics and Interactive Applications
-- Passionate about clean code and software design
-- Always curious about how technology solves real-world problems
+- Artificial Intelligence
+- Computer Graphics
+- Database Systems
+- Software Engineering
+- Problem Solving
+
+I enjoy building projects, learning new technologies, and exploring how software can solve real-world problems.
 
 ---
 
@@ -60,13 +65,17 @@ Software Engineering
 
 <img src="https://skillicons.dev/icons?i=python,c,java,mysql" />
 
+<br><br>
+
 ### Web Development
 
 <img src="https://skillicons.dev/icons?i=html,css,js" />
 
+<br><br>
+
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,vscode,github" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 </div>
 
@@ -75,11 +84,11 @@ Software Engineering
 ## Academic Projects
 
 | Project | Description |
-|----------|----------|
-| AI Model Evaluation | Performance analysis and evaluation of machine learning models |
-| Computer Graphics Games | Interactive 2D and 3D games with animation |
+|----------|-------------|
+| AI Model Evaluation | Machine learning model evaluation and performance analysis |
+| Computer Graphics Games | Interactive 2D and 3D animation projects |
 | Metadata Journaling | Operating Systems project focused on filesystem consistency |
-| Database Management System | Relational database design and SQL implementation |
+| DBMS Project | Relational database design and SQL implementation |
 | CSS Playground | Frontend styling experiments and responsive layouts |
 
 ---
@@ -88,9 +97,9 @@ Software Engineering
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=chaityrahman154-lgtm&show_icons=true&hide_border=true&bg_color=00000000&title_color=D4A89E&icon_color=D4A89E&text_color=3A3532"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=chaityrahman154-lgtm&show_icons=true&theme=transparent&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaityrahman154-lgtm&layout=compact&hide_border=true&bg_color=00000000&title_color=D4A89E&text_color=3A3532"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaityrahman154-lgtm&layout=compact&theme=transparent&hide_border=true" />
 
 </div>
 
@@ -98,41 +107,35 @@ Software Engineering
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=chaityrahman154-lgtm&hide_border=true&background=FFFFFF00&ring=D4A89E&fire=D4A89E&currStreakLabel=D4A89E&sideLabels=3A3532&currStreakNum=3A3532&sideNums=3A3532&dates=8A817C"/>
+<img src="https://streak-stats.demolab.com?user=chaityrahman154-lgtm&theme=transparent&hide_border=true" />
 
 </div>
 
 ---
 
-## Featured Repositories
+## Connect With Me
 
-<a href="https://github.com/chaityrahman154-lgtm">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=chaityrahman154-lgtm&repo=ai-model-evaluation&hide_border=true&bg_color=00000000"/>
-</a>
-
----
-
-## Connect
-
-📧 BRAC University Email  
+📧 **BRAC University Email**  
 samia.rahman9@g.bracu.ac.bd
 
-📧 Personal Email  
+📧 **Personal Email**  
 chaityrahman154@gmail.com
 
-💼 LinkedIn  
+💼 **LinkedIn**  
 https://www.linkedin.com/in/samia-rahman-b98aa0386/
 
-🌐 Portfolio  
+🌐 **Portfolio**  
 https://chaityrahman154-lgtm.github.io/Portfolio-Samia_Rahman/
 
 ---
 
-<div align="center">
+## Quote
 
 > *Learning today, building tomorrow.*
 
-<br>
+---
+
+<div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=chaityrahman154-lgtm&style=for-the-badge&color=d4a89e" />
 
