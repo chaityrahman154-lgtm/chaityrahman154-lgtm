@@ -3,10 +3,6 @@
 </p>
 <div align="center">
 
-# 𝐒𝐚𝐦𝐢𝐚 𝐑𝐚𝐡𝐦𝐚𝐧
-
-### Computer Science Student @ BRAC University
-
 <img src="https://readme-typing-svg.demolab.com?font=Cormorant+Garamond&size=24&pause=2500&color=D4A89E&center=true&vCenter=true&width=800&lines=Artificial+Intelligence;Computer+Graphics;Database+Systems;Software+Engineering;Learning+today,+building+tomorrow" />
 
 <br>
