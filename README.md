@@ -91,15 +91,9 @@ Software Engineering
 
 ## GitHub Analytics
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=chaityrahman154-lgtm&show_icons=true&hide_border=true" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaityrahman154-lgtm&layout=compact&hide_border=true" />
-
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chaityrahman154-lgtm&theme=default" />
+</p>
 
 ---
 
