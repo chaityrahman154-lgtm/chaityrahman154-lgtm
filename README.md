@@ -1,214 +1,257 @@
-<!-- Header -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--         SAMIA RAHMAN — GitHub Profile README              -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:fde8f0,100:dceefb&height=160&text=Samia%20Rahman&fontAlign=50&fontAlignY=55&fontSize=48&fontColor=5a3058&desc=ML%20%26%20AI%20Engineer%20in%20the%20Making%20%7C%20BRAC%20University&descAlign=50&descAlignY=78&descSize=14&descColor=7a5a78&animation=blinking" width="100%" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Samia%20Rahman&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Machine%20Learning%20%26%20AI%20%7C%20CSE%20%40%20BRAC%20University&descAlignY=58&descColor=e0e7ff&animation=fadeIn" width="100%"/>
+
 </div>
-
-<br/>
-
-<!-- Typing -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Lato&weight=300&size=17&pause=1500&color=9b6e8a&center=true&vCenter=true&width=580&lines=Turning+raw+data+into+intelligent+decisions.;Deep+Learning+%7C+Neural+Networks+%7C+NLP;NASA+Space+Apps+Challenge+%E2%80%94+Participant;BSc+CSE+%40+BRAC+University%2C+Dhaka;Open+to+internships+%26+research+collaborations." alt="typing" />
-</div>
-
-<br/>
 
 ---
 
-## &nbsp; 01 &nbsp;·&nbsp; About
+<div align="center">
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=20&duration=3000&pause=800&color=6366f1&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=72&lines=Building+intelligent+systems+from+data.;ML+%26+AI+enthusiast+based+in+Dhaka%2C+Bangladesh.;NASA+Space+Apps+Challenge+Participant." alt="Typing SVG" />
 
-> *"I give a model enough examples — and it begins to see patterns humans might miss."*
+</div>
 
-<br/>
+<br>
 
-<table width="100%" border="0">
+<!-- ─────────────────── ABOUT ─────────────────── -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11&height=2" width="100%"/>
+
+<br>
+
+<div align="center">
+
+### ◈ &nbsp;About Me
+
+</div>
+
+<br>
+
+<table align="center" border="0" width="88%">
 <tr>
-<td width="48%" valign="top">
+<td width="54%" valign="top">
 
-**Samia Rahman** is a CSE undergraduate at BRAC University, Dhaka focused on **Machine Learning** and **Artificial Intelligence**. She participated in the **NASA Space Apps Challenge** and is currently building expertise in deep learning architectures and model deployment.
-
-&nbsp;
-
-**Currently learning:** Backpropagation · CNNs · Model Deployment
-
-**Open to:** Internships · Research roles · ML project collaborations
+```yaml
+Name      : Samia Rahman
+Role      : ML & AI Student
+University: BRAC University, Dhaka
+Degree    : BSc Computer Science & Engineering
+Focus     : Machine Learning, Computer Vision
+Status    : Open to internships & collaborations
+Location  : Dhaka, Bangladesh
+Hackathon : NASA Space Apps Challenge
+```
 
 </td>
 <td width="4%"></td>
-<td width="48%" valign="top">
+<td width="42%" valign="top" align="center">
 
-| | |
-|---|---|
-| **Name** | Samia Rahman |
-| **University** | BRAC University |
-| **Degree** | BSc Computer Science & Engineering |
-| **Location** | Dhaka, Bangladesh |
-| **Focus** | Machine Learning · AI · Deep Learning |
-| **Goal** | ML Engineer / AI Researcher |
-| **Hackathon** | NASA Space Apps Challenge |
+<img src="https://github-readme-stats.vercel.app/api?username=chaityrahman154-lgtm&show_icons=true&hide_border=true&bg_color=eef2ff&title_color=4338ca&icon_color=6366f1&text_color=1e1b4b&border_radius=14" width="100%"/>
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=chaityrahman154-lgtm&hide_border=true&background=EEF2FF&ring=6366F1&fire=4338CA&currStreakLabel=4338CA&border_radius=14&sideLabels=1e1b4b&dates=6b7280" width="100%"/>
 
 </td>
 </tr>
 </table>
 
-<br/>
+<br>
 
----
+<!-- ─────────────────── SKILLS ─────────────────── -->
 
-## &nbsp; 02 &nbsp;·&nbsp; Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11&height=2" width="100%"/>
 
-<br/>
-
-**Core — Machine Learning & Data Science**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Colab](https://img.shields.io/badge/Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black)
-
-<br/>
-
-**Learning — Deep Learning & AI**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
-<br/>
-
-**Web · Data · Tools**
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-<br/>
-
----
-
-## &nbsp; 03 &nbsp;·&nbsp; Projects
-
-<br/>
+<br>
 
 <div align="center">
 
-<table width="95%" border="0">
+### ◈ &nbsp;Tech Stack
+
+<br>
+
+<!-- Machine Learning -->
+<img src="https://img.shields.io/badge/Python-eef2ff?style=for-the-badge&logo=python&logoColor=4338ca"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Scikit--Learn-e0e7ff?style=for-the-badge&logo=scikit-learn&logoColor=4338ca"/>
+&nbsp;
+<img src="https://img.shields.io/badge/TensorFlow-eef2ff?style=for-the-badge&logo=tensorflow&logoColor=6366f1"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Keras-e0e7ff?style=for-the-badge&logo=keras&logoColor=4338ca"/>
+&nbsp;
+<img src="https://img.shields.io/badge/OpenCV-eef2ff?style=for-the-badge&logo=opencv&logoColor=6366f1"/>
+
+<br><br>
+
+<!-- Data -->
+<img src="https://img.shields.io/badge/Pandas-e0e7ff?style=for-the-badge&logo=pandas&logoColor=4338ca"/>
+&nbsp;
+<img src="https://img.shields.io/badge/NumPy-eef2ff?style=for-the-badge&logo=numpy&logoColor=6366f1"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Matplotlib-e0e7ff?style=for-the-badge&logo=python&logoColor=4338ca"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Jupyter-eef2ff?style=for-the-badge&logo=jupyter&logoColor=6366f1"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Google_Colab-e0e7ff?style=for-the-badge&logo=googlecolab&logoColor=4338ca"/>
+
+<br><br>
+
+<!-- Web & DB -->
+<img src="https://img.shields.io/badge/SQL-eef2ff?style=for-the-badge&logo=postgresql&logoColor=6366f1"/>
+&nbsp;
+<img src="https://img.shields.io/badge/PHP-e0e7ff?style=for-the-badge&logo=php&logoColor=4338ca"/>
+&nbsp;
+<img src="https://img.shields.io/badge/HTML5-eef2ff?style=for-the-badge&logo=html5&logoColor=6366f1"/>
+&nbsp;
+<img src="https://img.shields.io/badge/CSS3-e0e7ff?style=for-the-badge&logo=css3&logoColor=4338ca"/>
+&nbsp;
+<img src="https://img.shields.io/badge/Git-eef2ff?style=for-the-badge&logo=git&logoColor=6366f1"/>
+
+</div>
+
+<br>
+
+<!-- ─────────────────── LEARNING ─────────────────── -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11&height=2" width="100%"/>
+
+<br>
+
+<div align="center">
+
+### ◈ &nbsp;Currently Learning
+
+<br>
+
+<table border="0" width="80%">
 <tr>
-<td width="33%" align="center" valign="top" style="padding:12px">
-
-### [AI Model Evaluation Suite](https://github.com/chaityrahman154-lgtm/ai-model-evaluation)
-
-Comparative analysis of ML models — measuring accuracy, precision, recall and F1 score with rich visualisations.
-
-![Python](https://img.shields.io/badge/Python-fde8f0?style=flat-square&logoColor=7a4a6a)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-fde8f0?style=flat-square&logoColor=7a4a6a)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-fde8f0?style=flat-square&logoColor=7a4a6a)
-
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Deep_Learning-e0e7ff?style=flat-square&logoColor=4338ca" height="26"/>
+<br><br><sub><b>Neural Networks<br>& Backprop</b></sub>
 </td>
-<td width="33%" align="center" valign="top" style="padding:12px">
-
-### [SQL Project Showcase](https://github.com/chaityrahman154-lgtm/sql-project-showcase)
-
-Full database management system with relational schema design, normalisation and a PHP backend.
-
-![SQL](https://img.shields.io/badge/SQL-dceefb?style=flat-square&logoColor=3a6a9a)
-![PHP](https://img.shields.io/badge/PHP-dceefb?style=flat-square&logoColor=3a6a9a)
-![DB Design](https://img.shields.io/badge/DB%20Design-dceefb?style=flat-square&logoColor=3a6a9a)
-
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Computer_Vision-eef2ff?style=flat-square&logoColor=6366f1" height="26"/>
+<br><br><sub><b>CNNs<br>& OpenCV</b></sub>
 </td>
-<td width="33%" align="center" valign="top" style="padding:12px">
-
-### [The Beginning Is Today](https://github.com/chaityrahman154-lgtm/The-beginning-is-today)
-
-Documented ML learning journey in Colab notebooks — from linear regression to neural networks.
-
-![Jupyter](https://img.shields.io/badge/Jupyter-fef3e8?style=flat-square&logoColor=7a6a3a)
-![Python](https://img.shields.io/badge/Python-fef3e8?style=flat-square&logoColor=7a6a3a)
-![Colab](https://img.shields.io/badge/Colab-fef3e8?style=flat-square&logoColor=7a6a3a)
-
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/NLP-e0e7ff?style=flat-square&logoColor=4338ca" height="26"/>
+<br><br><sub><b>Transformers<br>& BERT</b></sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Deployment-eef2ff?style=flat-square&logoColor=6366f1" height="26"/>
+<br><br><sub><b>Streamlit<br>& Flask</b></sub>
 </td>
 </tr>
 </table>
 
 </div>
 
-<br/>
+<br>
 
----
+<!-- ─────────────────── PROJECTS ─────────────────── -->
 
-## &nbsp; 04 &nbsp;·&nbsp; GitHub Stats
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11&height=2" width="100%"/>
 
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=chaityrahman154-lgtm&show_icons=true&hide_border=true&bg_color=fde8f0&title_color=5a3058&icon_color=9b6e8a&text_color=5a3e5a&count_private=true&include_all_commits=true" height="170" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaityrahman154-lgtm&layout=compact&hide_border=true&bg_color=dceefb&title_color=1a4a7a&text_color=2a5a8a&langs_count=6" height="170" />
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chaityrahman154-lgtm&theme=rose_pine" width="80%" />
-</div>
-
-<br/>
-
----
-
-## &nbsp; 05 &nbsp;·&nbsp; Connect
-
-<br/>
+<br>
 
 <div align="center">
 
-*Open to internships &nbsp;·&nbsp; research collaborations &nbsp;·&nbsp; ML and AI project partnerships*
+### ◈ &nbsp;Projects
 
-<br/>
+<br>
 
-<a href="https://chaityrahman154-lgtm.github.io/Portfolio-Samia_Rahman/">
-  <img src="https://img.shields.io/badge/Portfolio-fde8f0?style=for-the-badge&logoColor=5a3058&label=&message=Visit+Portfolio" />
-  <img src="https://img.shields.io/badge/Visit%20Portfolio-5a3058?style=for-the-badge" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/chaityrahman154-lgtm">
-  <img src="https://img.shields.io/badge/GitHub-%40chaityrahman154--lgtm-1a3a5a?style=for-the-badge&logo=github&logoColor=white&labelColor=2a5a8a" />
+<a href="https://github.com/chaityrahman154-lgtm/ai-model-evaluation">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=chaityrahman154-lgtm&repo=ai-model-evaluation&hide_border=true&bg_color=eef2ff&title_color=4338ca&icon_color=6366f1&text_color=1e1b4b&border_radius=14"/>
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/samia-rahman-b98aa0386/">
-  <img src="https://img.shields.io/badge/LinkedIn-Samia%20Rahman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a5a9a" />
+<a href="https://github.com/chaityrahman154-lgtm/The-beginning-is-today">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=chaityrahman154-lgtm&repo=The-beginning-is-today&hide_border=true&bg_color=eef2ff&title_color=4338ca&icon_color=6366f1&text_color=1e1b4b&border_radius=14"/>
 </a>
 
-<br/><br/>
+<br><br>
 
+<a href="https://github.com/chaityrahman154-lgtm/sql-project-showcase">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=chaityrahman154-lgtm&repo=sql-project-showcase&hide_border=true&bg_color=eef2ff&title_color=4338ca&icon_color=6366f1&text_color=1e1b4b&border_radius=14"/>
+</a>
+&nbsp;
+<a href="https://github.com/chaityrahman154-lgtm/animated-worlds">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=chaityrahman154-lgtm&repo=animated-worlds&hide_border=true&bg_color=eef2ff&title_color=4338ca&icon_color=6366f1&text_color=1e1b4b&border_radius=14"/>
+</a>
+
+<br><br>
+
+<a href="https://github.com/chaityrahman154-lgtm/CSS-Animations">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=chaityrahman154-lgtm&repo=CSS-Animations&hide_border=true&bg_color=eef2ff&title_color=4338ca&icon_color=6366f1&text_color=1e1b4b&border_radius=14"/>
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Plant_Disease_Classifier-In_Progress-6366f1?style=for-the-badge&labelColor=eef2ff"/>
+
+<br>
+<sub>CNN model to detect plant disease from leaf images · Python · TensorFlow · Streamlit</sub>
+
+</div>
+
+<br>
+
+<!-- ─────────────────── CHARTS ─────────────────── -->
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chaityrahman154-lgtm&layout=donut&hide_border=true&bg_color=eef2ff&title_color=4338ca&text_color=1e1b4b&border_radius=14&langs_count=6" width="300"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=chaityrahman154-lgtm&bg_color=eef2ff&color=4338ca&line=6366f1&point=4338ca&area=true&area_color=c7d2fe&hide_border=true&radius=14" width="92%"/>
+
+</div>
+
+<br>
+
+<!-- ─────────────────── CONNECT ─────────────────── -->
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11&height=2" width="100%"/>
+
+<br>
+
+<div align="center">
+
+### ◈ &nbsp;Connect
+
+<br>
+
+<a href="https://chaityrahman154-lgtm.github.io/Portfolio-Samia_Rahman/">
+  <img src="https://img.shields.io/badge/Portfolio-4338ca?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/samia-rahman-b98aa0386/">
+  <img src="https://img.shields.io/badge/LinkedIn-6366f1?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;&nbsp;
 <a href="mailto:samia.rahman9@g.bracu.ac.bd">
-  <img src="https://img.shields.io/badge/samia.rahman9%40g.bracu.ac.bd-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/University_Mail-4338ca?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;&nbsp;
 <a href="mailto:chaityrahman154@gmail.com">
-  <img src="https://img.shields.io/badge/chaityrahman154%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-6366f1?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=chaityrahman154-lgtm&style=for-the-badge&color=6366f1&label=Profile+Views"/>
+
 </div>
 
-<br/>
+<br>
 
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:dceefb,100:fde8f0&height=80&fontSize=13&text=Data%20reveals%20extraordinary%20truths%20about%20the%20world.&fontColor=9b8aaa&fontAlignY=55&section=footer" width="100%" />
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Open+to+internships+%26+collaborations&fontSize=16&fontColor=e0e7ff&fontAlignY=65&animation=fadeIn" width="100%"/>
